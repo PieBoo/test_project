@@ -1,3 +1,2 @@
 It is test project.
-(Git test by user)
 
