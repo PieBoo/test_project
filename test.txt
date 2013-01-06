@@ -1,2 +1,3 @@
 It is test project.
 (This is newbranch)
+(This is newbranch 2)
